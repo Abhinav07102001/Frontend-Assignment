@@ -7,8 +7,6 @@ The Deployed Link - <https://form-builder-assignment2024.netlify.app/>
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
 
 ## Getting Started
 
